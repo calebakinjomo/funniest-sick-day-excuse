@@ -4,6 +4,7 @@ u-zeroxfive-the-funniest-sick-day-excuse-37423a36 (program/v1).
 
 Writes a single line, under 200 characters, that someone could send to
 call in sick, to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
+Revised: docstring touch-up only — the entry line itself is unchanged.
 
 The line: a back injury from a sneeze. Half-believable (a sneeze really can
 throw a back out), fresh (no fever, no dog, no dead grandmother), the joke
